@@ -1,0 +1,5 @@
+"Q: What is a constructor in Java?" 
+"A: A constructor is a special method that is used to initialize objects." 
+"" 
+"Q: What is inheritance in Java?" 
+"A: Inheritance is a mechanism where one class acquires the property of another class." 
